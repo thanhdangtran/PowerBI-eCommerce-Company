@@ -11,7 +11,7 @@ Một số thông tin bổ sung cho case study:
 * Vì chỉ có dữ liệu đến năm 2018, nên ta sẽ giả sử hiện tại đang là tháng 9 năm 2018 (các dữ liệu sau tháng 9/2018 bạn có thể bỏ qua)
 * Công ty có trụ sở tại Mỹ, tuy nhiên được thành lập ở Brazil (đó là lý do vì sao một số thông tin được viết bằng tiếng Bồ Đào Nha)
 
-**Dữ liệu **Bộ dữ liệu bao gồm:
+ **Bộ dữ liệu bao gồm:
 
 
 
